@@ -20,7 +20,7 @@ $(function() {
 });
 $(function() {
   $(".typed").typed({
-      strings: ['dru9p0dru9'],
+      strings: ['dru9p0dru9', 'dru9p0dru9'],
       typeSpeed: 100,
       loop: true,
       cursorChar: "|",
